@@ -1,2 +1,1 @@
-# constructor-word-guess
-Advanced JavaScript Assignment: Constructor Word Guess
+# Word-Guess-Game

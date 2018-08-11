@@ -1,0 +1,47 @@
+body{
+    background-color: black;
+}
+
+h1, h2, h3 { text-align: center;
+    color: white;
+
+}
+
+h1 { font-size: 150px;}
+
+.border { border: dashed 2px blue;
+}
+
+#pac .orange #ghost {
+    display: block;
+    text-align: center;
+}
+
+#pac {height: 250px;
+    margin: 10px;
+}
+
+
+
+.orange { height: 90px;
+    margin: 30px;
+   
+}
+
+#ghost { height: 220px;
+    margin: 10px;
+    margin-bottom: 0;
+
+}
+
+.pacmap {
+
+  
+
+
+
+}
+
+
+  
+
